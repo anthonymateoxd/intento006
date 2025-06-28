@@ -6,7 +6,7 @@ const Header = () => {
         Hola World
         <ul>
           <li>
-            <a href='#'>Pero cambia?</a>
+            <a href='#'>Intento Definitivo</a>
           </li>
         </ul>
       </nav>
